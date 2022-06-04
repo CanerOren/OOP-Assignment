@@ -1,0 +1,30 @@
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Önder Mahir Yaşrin\Desktop\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\rondu\Desktop\OOP-ASIGNMENT-main\Caner-Ödev\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
