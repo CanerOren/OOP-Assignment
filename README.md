@@ -32,9 +32,9 @@ Additionally, there will be behavioral interactions among the competitors based 
 
 When any competitor crosses the finish line, the race will end, and all competitors will be ranked and printed on the screen according to their positions at that moment. For each position, the numbers and names of the competitors at that position will be printed. Below are examples of the outputs for two consecutive races.
 
-![Simulation Output](D:\Yazılım\OOP-Assignment\pics\console_output.png)
+![Simulation Output](/pics/console_output.png)
 
 
 Additionally, class diagrams are shown below. 
 
-![Class Diagram](D:\Yazılım\OOP-Assignment\pics\class_diagram.png)
+![Class Diagram](pics\class_diagram.png)
