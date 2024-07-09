@@ -37,4 +37,4 @@ When any competitor crosses the finish line, the race will end, and all competit
 
 Additionally, class diagrams are shown below. 
 
-![Class Diagram](pics\class_diagram.png)
+![Class Diagram](/pics/class_diagram.png)
